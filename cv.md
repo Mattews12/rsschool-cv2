@@ -26,18 +26,21 @@
  * Polish Language School Curriculum(С2 lever)
 
 ### Professional skills
-**WEB|FrontEnd**
- * _JavaScript_
- * _CSS_
- * _HTML_
-**Language** 
- * _Polish(C2)_
- * _English(A2)_
-**СVS**
- * _Git_
-**Text editors**
- * _SublimeText_
- * _VS code_
+* _WEB|FrontEnd_
+* _JavaScript_
+* _CSS_
+* _HTML_
+
+##### Language 
+* _Polish(C2)_
+* _English(A2)_
+
+##### СVS
+* _Git_
+
+##### Text editors
+* _SublimeText_
+* _VS code_
 
  
 
