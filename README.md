@@ -1,2 +1,3 @@
 # rsschool-cv
-My firss CV in RS-school
+https://Mattews12.github.io/rsschool-cv/cv
+
