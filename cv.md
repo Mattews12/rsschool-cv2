@@ -26,7 +26,7 @@
  * Polish Language School Curriculum(С2 lever)
 
 ### Professional skills
-* WEB|FrontEnd
+##### JS|FrontEnd|Web
 * JavaScript
 * CSS
 * HTM
