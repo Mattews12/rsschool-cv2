@@ -21,10 +21,9 @@
 ### Education
  * _Yanka Kupala State University of Grodno(2020-2025)_
  * Faculty of Practical Psychology 
- * English courses(C1 level)
+ * English courses
  * RS-school courses
- * Polish Language School Curriculum(С2 lever)
-
+ * Polish Language School Curriculum
 ### Professional skills
 ##### JS|FrontEnd|Web
 * JavaScript
