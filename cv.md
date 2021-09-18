@@ -11,7 +11,7 @@
 * Country: Belarus
 * Сity: Lida
 * About me:
- * I am 18 years old, I want to become a programmer, in the direction
+ I am 18 years old, I want to become a programmer, in the direction
  of WEB.
  I study for 2 months, everything turns out, I get great pleasure from this craft.
  I'm taking courses from Rolling-Scopse.
@@ -27,17 +27,17 @@
 
 #### Professional skills
 **WEB|FrontEnd**
-_JavaScript_
-_CSS_
-_HTML_
+* _JavaScript_
+* _CSS_
+* _HTML_
 **Language** 
-_Polish(C2)_
-_English(A2)_
+* _Polish(C2)_
+* _English(A2)_
 **СVS**
-_Git_
+* _Git_
 **Text editors**
-_SublimeText_
-_VS code_
+* _SublimeText_
+* _VS code_
 
  
 
