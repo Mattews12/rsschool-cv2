@@ -1,13 +1,13 @@
 # CV
 ## MATSVEI ANUFRYIEV 
 -----------------------
-**Contacts**
+### Contacts
 * Number: +375(25)938-37-06(Telegram,Viber)
 * Email: gargi.hockey12@gmail.com
 * Discord: Motian#8799
 * GitHub: Mattews12 
 
-**Information**
+#### Information
 * Country: Belarus
 * Сity: Lida-Minsk
 * About me:
@@ -18,4 +18,5 @@
  After completing the course, I plan to get a job in the company  IT-company, and improve their skills in this craft.
  I am a purposeful and very sociable person, to talk is about me.
 
- ****
+
+
