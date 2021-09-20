@@ -28,7 +28,7 @@
 ##### JS|FrontEnd|Web
 * JavaScript
 * CSS
-* HTM
+* HTML
 
 ##### Language 
 * Polish(C2)
